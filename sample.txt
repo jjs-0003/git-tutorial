@@ -10,3 +10,4 @@ oh
 clear!
 hello
 fdewaf
+test0006
